@@ -7,7 +7,7 @@
 ```
 Name of QuantLet: JumpDetectR
 
-Published in: To be published as "Jump dynamics in high frequency crypto markets
+Published in: To be published as "Jump dynamics in high frequency crypto markets"
 
 Description: Scalable implementation of Lee / Mykland (2012) and Ait-Sahalia / Jacod / Li (2012) Jump tests for noisy high frequency data
 
